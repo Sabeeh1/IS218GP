@@ -31,3 +31,5 @@
 
 
 https://docs.google.com/document/d/1qUz8fDA5_rbxX_6Lhpi5avZe_TfyQ3Hv6tnD-hB_roE/edit?usp=sharing
+
+https://docs.google.com/document/d/1l5pUQ2sL7xXjm5p31R3gdTsTwZPWkG84OLR6SlEE95g/edit
