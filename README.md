@@ -22,7 +22,7 @@
 | Nov 16, 2023|                |  Sabeeh Qureshi  |
 | Nov 21, 2023| Sabeeh Qureshi |                  |
 | Nov 23, 2023|                |                  |
-| Nov 28, 2023|                |                  |
+| Nov 28, 2023| Sabeeh Qureshi |                  |
 | Nov 30, 2023|                |                  |
 | Dec 5, 2023 |                |                  |
 | Dec 7, 2023 |                |                  |
