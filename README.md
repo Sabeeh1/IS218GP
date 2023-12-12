@@ -10,8 +10,8 @@
 | Nov 28, 2023| Yousuf               |                  |
 | Nov 30, 2023|                | Yousuf                 |
 | Dec 5, 2023 | Yousuf               |                  |
-| Dec 7, 2023 |                |                  |
-| Dec 12, 2023|                |                  |
+| Dec 7, 2023 |                | Yousuf                 |
+| Dec 12, 2023| Yousuf               |                  |
 
 
 | Date       | Tuesday Sign-in | Thursday Sign-in |
