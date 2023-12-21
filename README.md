@@ -1,3 +1,12 @@
+IMPORTANT LINKS 
+Business Analysis 
+
+Github Repository 
+
+Detailed User Stories and UX Design
+
+Figma Design 
+
 # IS218GP
 | Date       | Tuesday Sign-in | Thursday Sign-in |
 |------------|-----------------|------------------|
@@ -27,9 +36,3 @@
 | Dec 5, 2023 | Sabeeh Qureshi |                  |
 | Dec 7, 2023 |                |  Sabeeh Qureshi  |
 | Dec 12, 2023| Sabeeh Qureshi |                  |
-
-
-
-https://docs.google.com/document/d/1qUz8fDA5_rbxX_6Lhpi5avZe_TfyQ3Hv6tnD-hB_roE/edit?usp=sharing
-
-https://www.figma.com/file/FwJqZIhL2XAUlQVe2qV9yQ/final-proj.-design?type=design&node-id=0%3A1&mode=design&t=gtMcA1yG0angf1ru-1
