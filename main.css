@@ -1,0 +1,171 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(112, 11, 11);
+    padding: 40px; 
+}
+
+header {
+    color: white;
+    border-bottom: 1px solid white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: bolder;
+}
+
+header nav {
+    display: flex;
+    gap: 195px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.dominate {
+    color: white;
+    display: flex;
+    gap: 30px;
+}
+
+.dominate .info {
+    color: white;
+    flex: 1;
+}
+
+.info h2{
+    color: white;
+    font-size: 24px;
+}
+
+.info h3{
+    color: white;
+    font-size: large;
+}
+
+.info img{
+    width: 200px;
+    height: auto;
+}
+
+.image {
+    color: black;
+    padding: 30px 0;
+}
+
+.experiences h2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.container{
+    width: 57.8% ;
+    max-width: 1400px;
+    margin: 0 auto;
+    background-color: black;
+    padding: 1.68% 2.618%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+
+  footer {
+text-align: center;
+  }
+
+h3{
+    font-size: large;
+    text-align: center;
+}
+
+h1 {
+    text-align: left;
+    font-size: 45px;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+image {
+    height: 10px;
+    width: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.par{
+    max-width: 75%;
+    text-align: left;
+}
+
+.btn-primary {
+    background-color: grey; 
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  
+  @media (max-width: 480px) {
+    header nav, .skill-list {
+      flex-direction: column;
+    }
+  }
+
+  .title{
+    font-size: xx-large;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+  }
+
+  .title img{
+    height: 90px; 
+    width: auto; 
+    vertical-align: middle; 
+}
+
+  .basketball-container {
+    position: fixed; 
+    right: 0; 
+    bottom: 0; 
+    width: 25%; 
+    overflow: hidden; 
+}
+
+.basketball {
+    position: absolute;
+    width: auto; 
+    height: 150%; 
+    right: -50%; 
+    bottom: -50%; 
+}
+
+.image img{
+    height: auto; 
+    width: 250px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.image .ball{
+    height: 150px;
+    width: 150px;
+    padding-left: 50px;
+}
+
+.image h2{
+    color: white;
+    font-size: 24px;
+    padding-left: 71px;
+}
+
+.car{
+    color: black;
+}
