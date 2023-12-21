@@ -1,10 +1,10 @@
 IMPORTANT LINKS 
 
-[Business Analysis](https://docs.google.com/document/d/1qUz8fDA5_rbxX_6Lhpi5avZe_TfyQ3Hv6tnD-hB_roE/edit?usp=sharing) 
+https://docs.google.com/document/d/1qUz8fDA5_rbxX_6Lhpi5avZe_TfyQ3Hv6tnD-hB_roE/edit?usp=sharing
  
-[Detailed User Stories and UX Design](https://docs.google.com/document/d/1l5pUQ2sL7xXjm5p31R3gdTsTwZPWkG84OLR6SlEE95g/edit?usp=sharing)
+https://docs.google.com/document/d/1l5pUQ2sL7xXjm5p31R3gdTsTwZPWkG84OLR6SlEE95g/edit?usp=sharing
 
-[Figma Design ](https://www.figma.com/file/FwJqZIhL2XAUlQVe2qV9yQ/final-proj.-design?type=design&node-id=0%3A1&mode=design&t=VlUj1A40At6kItD6-1)
+https://www.figma.com/file/FwJqZIhL2XAUlQVe2qV9yQ/final-proj.-design?type=design&node-id=0%3A1&mode=design&t=VlUj1A40At6kItD6-1
 
 # IS218GP
 | Date       | Tuesday Sign-in | Thursday Sign-in |
